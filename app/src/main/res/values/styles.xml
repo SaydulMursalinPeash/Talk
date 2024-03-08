@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="style_without_toolbar"
+        parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#EDA4A4</item>
+        <item name="colorPrimaryDark">#323232</item>
+        <item name="colorAccent">#548EFF</item>
+    </style>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Talk</string>
+    <string name="profile">Profile</string>
+    <string name="write_your_message">Write your message..</string>
+</resources>
